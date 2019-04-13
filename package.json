@@ -1,0 +1,17 @@
+{
+  "name": "element-block",
+  "main": "./lib/element-block",
+  "version": "0.0.0",
+  "description": "Blocks annoying elements from classes, IDs, or tags. Useful with content generated from other websites.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "element-block:toggle"
+  },
+  "repository": "https://github.com/atom/element-block",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
